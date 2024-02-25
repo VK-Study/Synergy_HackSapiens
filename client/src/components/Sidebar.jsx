@@ -39,7 +39,7 @@ export default function Sidebar() {
           </button> */}
             <ul className="flex flex-col w-full h-3/4 justify-evenly font-bold">
             <li>File Management</li>
-            <li>Manual Review</li>
+            {/* <li>Manual Review</li> */}
             {/* <li className="flex items-center font-medium rounded-md curson pointer bg-gradient-to-tr from-indigo-200 to-indigo-100 text-indigo-800 hover:bg-indigo-50 text-gray-600">
             </li> */}
         </ul>

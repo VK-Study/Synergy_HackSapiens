@@ -15,7 +15,7 @@ function App() {
       <Route path="/" element={Login} />
       </Routes>
     </BrowserRouter> */}
-    {/* <Login/> */}
+    <Login/>
     {/* <SearchBar/> */}
 
     <FileUpload/>
